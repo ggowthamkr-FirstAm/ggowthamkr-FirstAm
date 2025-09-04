@@ -1,76 +1,24 @@
-<h1>Hi there 👋, I'm Gowtham</h1>
-<h3>A FullStack engineer based in Bengaluru, India 🌲</h3>
- 
-- I do things with **React**, **Python**, **AWS**  🔥
+# 💫 About Me:
+I am currently working on JOT apps<br>Solex-EO, EO-Standalone, Notary, Notary-Operator
 
-- Always intrigued with design systems ✨
 
-- Born and raised in Bengaluru ☀️🌴
-<!-- - Making my way through Cypress 🛠️ -->
- 
- 
-<a href="https://github.com/ggowthamkr/ggowthamkr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ggowthamkr&show_icons=true" alt="ggowthamkr" /></a>
- 
-## Tools I Use 🧰
- 
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ggowthamkr-FirstAm&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ggowthamkr-FirstAm&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggowthamkr-FirstAm&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ggowthamkr-FirstAm&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ggowthamkr-FirstAm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Cypress](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)](https://www.cypress.io/)
- 
- 
-<!--
- 
-## Book List 📚
- 
-- [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
+---
+[![](https://visitcount.itsvg.in/api?id=ggowthamkr-FirstAm&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- [EMPOWERED: Ordinary People, Extraordinary Products](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X/ref=pd_sbs_14_1/141-6017459-7625457?_encoding=UTF8&pd_rd_i=111969129X&pd_rd_r=a07aab61-036b-42a0-9d6f-6b85d74f42d8&pd_rd_w=n2tBs&pd_rd_wg=u3cpu&pf_rd_p=ed1e2146-ecfe-435e-b3b5-d79fa072fd58&pf_rd_r=A8PHZ90KFRE9FXKEJWHJ&psc=1&refRID=A8PHZ90KFRE9FXKEJWHJ)
-
-- [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=pd_sbs_1?pd_rd_w=oO7IR&pf_rd_p=3ec6a47e-bf65-49f8-80f7-0d7c7c7ce2ca&pf_rd_r=P4GMC10J0J0XPHKVJF40&pd_rd_r=d6022ace-0db7-466d-b520-8c388cdee4cf&pd_rd_wg=K5yJC&pd_rd_i=1119387507&psc=1)
- 
--->
- 
- 
-<!--
-
-**ggowthamkr/ggowthamkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
--->
- 
-<!--
-
-Previous Badge References
- 
-Visitor Count
-<a href="https://github.com/ggowthamkr"><img src="https://visitor-badge.laobi.icu/badge?page_id=ggowthamkr.ggowthamkr" alt="GitHub"></a>
- 
-LinkedIn
-<a href="https://www.linkedin.com/in/ggowthamkrguyen"><img src="https://img.shields.io/badge/-ggowthamkrguyen-0072b1?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
- 
--->
-
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
